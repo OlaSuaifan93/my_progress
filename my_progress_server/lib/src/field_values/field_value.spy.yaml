@@ -1,0 +1,7 @@
+class: FieldValue
+table: field_value
+
+fields:
+  dailyLogId: int
+  fieldId: int
+  value: String

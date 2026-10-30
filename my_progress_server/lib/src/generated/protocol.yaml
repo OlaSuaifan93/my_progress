@@ -1,0 +1,34 @@
+emailIdp:
+  - login:
+  - startRegistration:
+  - verifyRegistrationCode:
+  - finishRegistration:
+  - startPasswordReset:
+  - verifyPasswordResetCode:
+  - finishPasswordReset:
+  - hasAccount:
+jwtRefresh:
+  - refreshAccessToken:
+dailyLog:
+  - createDailyLog:
+  - getDailyLogs:
+fieldValue:
+  - saveFieldValue:
+  - getFieldValues:
+field:
+  - getFields:
+  - createField:
+  - updateField:
+  - deleteField:
+greeting:
+  - hello:
+subtopic:
+  - getSubtopics:
+  - createSubtopic:
+  - updateSubtopic:
+  - deleteSubtopic:
+topic:
+  - getTopics:
+  - createTopic:
+  - updateTopic:
+  - deleteTopic:

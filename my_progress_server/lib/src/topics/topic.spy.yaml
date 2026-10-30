@@ -1,0 +1,8 @@
+class: Topic
+table: topic
+
+fields:
+  name: String
+  description: String?
+  createdAt: DateTime
+  ownerUserIdentifier: String?

@@ -1,0 +1,19 @@
+
+class: Goal
+table: goal
+
+fields:
+  topicId: int?
+  subtopicId: int?
+  fieldId: int?
+
+  title: String
+  description: String?
+
+  targetValue: double
+  startDate: DateTime
+  endDate: DateTime
+
+  direction: String
+  createdAt: DateTime
+  updatedAt: DateTime

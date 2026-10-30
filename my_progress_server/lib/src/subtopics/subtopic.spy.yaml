@@ -1,0 +1,8 @@
+class: Subtopic
+table: subtopic
+
+fields:
+  topicId: int
+  name: String
+  description: String?
+  createdAt: DateTime

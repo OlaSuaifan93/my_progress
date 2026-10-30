@@ -1,0 +1,12 @@
+name: _
+publish_to: none
+
+environment:
+  sdk: '^3.8.0'
+
+workspace:
+  - my_progress_client
+  - my_progress_server
+  - my_progress_flutter
+dependency_overrides:
+  flutter_secure_storage: ^10.0.0

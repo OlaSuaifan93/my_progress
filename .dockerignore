@@ -1,0 +1,8 @@
+.git
+**/config/passwords.yaml
+**/backups/
+**/.dart_tool/
+**/build/
+**/web/app/
+.env
+.env.*

@@ -1,0 +1,7 @@
+class: DailyLog
+table: daily_log
+
+fields:
+  subtopicId: int
+  date: DateTime
+  createdAt: DateTime

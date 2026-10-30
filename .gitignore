@@ -1,0 +1,45 @@
+# Dart / Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Serverpod secrets
+my_progress_server/config/passwords.yaml
+
+# Local database backups
+my_progress_server/backups/
+
+# Local/generated web build
+my_progress_server/web/app/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Local Docker Compose contains development credentials
+my_progress_server/docker-compose.yaml
+
+# Local Docker Compose contains development credentials
+my_progress_server/docker-compose.yaml
+
+# Local code backup files
+my_progress_flutter/lib/screens/reports_screen.dart.broken_backup
